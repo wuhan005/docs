@@ -1,17 +1,17 @@
-# Documentation
+# 文档
 
-## Main Concepts
+## 主要概念
 
-* [Getting started](getting-started.md)
-* [Installation](installation.md)
-* [Configuration](configuration.md)
-* [Tasks](tasks.md)
-* [Hosts](hosts.md)
+* [开始](getting-started.md)
+* [安装](installation.md)
+* [配置](configuration.md)
+* [任务](tasks.md)
+* [服务器](hosts.md)
 * [Flow](flow.md)
-* [CLI Usage](cli.md)
-* [API Reference](api.md)
+* [命令行用法](cli.md)
+* [API 参考](api.md)
 
-## Advanced
+## 进阶
 
 * [Strategy](advanced/deploy-strategies.md)
 * [Deploy and Git](advanced/deploy-and-git.md)
@@ -21,6 +21,6 @@
 
 * [How to deploy Laravel](how-to-deploy-laravel.md)
 
-## Examples
+## 范例
 
 * [Inventory](examples/inventory.md)
